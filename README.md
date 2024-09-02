@@ -15,4 +15,4 @@
 - 🌱 I’m currently learning the streaming computing on big data
 - 📫 How to reach me: xmzhou123@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XianmingZhou00)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XianmingZhou00&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
